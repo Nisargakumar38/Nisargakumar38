@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Nisarga K 👋
 
-<!--
-**Nisargakumar38/Nisargakumar38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Information Science & Engineering undergraduate passionate about software engineering, systems programming, and building efficient solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Skills
+- **Languages:** C, Python, SQL
+- **Core Concepts:** Data Structures & Algorithms, Operating Systems, Database Management Systems (DBMS)
+- **Tools & Environments:** Git, GitHub, macOS / Linux Terminal
+
+---
+
+### 📌 What I'm Working On
+- Developing hands-on projects in systems programming and algorithm design.
+- Deepening my knowledge in low-level engineering and backend technologies.
+
+---
+
+### 📫 Connect With Me
+- **Email:** nisarga382006@gmail.com
+- **GitHub:** [@Nisargakumar38](https://github.com/Nisargakumar38)
+- **Location:** Mysuru, Karnataka, India
